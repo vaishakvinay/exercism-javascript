@@ -50,7 +50,7 @@ This repository contains my solutions to the Exercism JavaScript track.
 | 40 | Rectangles | ✅ |
 | 41 | Flower Field | ✅ |
 | 42 | Rotational Cipher | ✅ |
-
+| 43 | Queen Attack | ✅ |
 ## Workflow
 
 - Download exercises using Exercism CLI
