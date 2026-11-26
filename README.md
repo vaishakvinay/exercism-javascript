@@ -51,6 +51,8 @@ This repository contains my solutions to the Exercism JavaScript track.
 | 41 | Flower Field | ✅ |
 | 42 | Rotational Cipher | ✅ |
 | 43 | Queen Attack | ✅ |
+| 44 | Transpose | ✅ |
+
 ## Workflow
 
 - Download exercises using Exercism CLI
