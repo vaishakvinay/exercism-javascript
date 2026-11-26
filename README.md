@@ -52,6 +52,7 @@ This repository contains my solutions to the Exercism JavaScript track.
 | 42 | Rotational Cipher | ✅ |
 | 43 | Queen Attack | ✅ |
 | 44 | Transpose | ✅ |
+| 44 | All Your Base | ✅ |
 
 ## Workflow
 
