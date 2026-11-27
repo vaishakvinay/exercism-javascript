@@ -54,6 +54,7 @@ This repository contains my solutions to the Exercism JavaScript track.
 | 44 | Transpose | ✅ | — |
 | 45 | All Your Base | ✅ | — |
 | 46 | Conway's Game of Life | ✅ | 1 hour 15 mins |
+| 47 | High Score Board | ✅ | 30 mins |
 
 ## Workflow
 
