@@ -55,6 +55,7 @@ This repository contains my solutions to the Exercism JavaScript track.
 | 45 | All Your Base | ✅ | — |
 | 46 | Conway's Game of Life | ✅ | 1 hour 15 mins |
 | 47 | High Score Board | ✅ | 30 mins |
+| 48 | Amusement Park| ✅ | 30 mins |
 
 ## Workflow
 
